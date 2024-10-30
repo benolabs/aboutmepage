@@ -1,14 +1,16 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Senior Application Support Engineer, Daily Mail Australia
+date: 2016 to Present
+location: Sydney Australia
+org: Daily Mail Australia
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Investigate and resolving application related issues reported by editorial and commercial users, ensuring minimal disruption to operations.
+- Managing and tracking incidents using ServiceNow, prioritising incidents based on impact and urgency and ensuring timely resolutions.
+- Working closely with development teams to report user issues, feature requests and improvements and assist in testing new releases and bug fixes. 
+- Collaborating with QA teams to conduct testing, validate fixes and ensure that applications meet specified requirements before deployment.
+- Creating and maintaining documentation for procedures and troubleshooting guides on Confluence, contributing to improved knowledge sharing with all the teams. 
+- Reviewing and updating Jira to track any ongoing issues and to track the progress of new features, bug fixes. 
+- Enhanced system reliability through proactive monitoring production systems and applications using Zabbix, Kibana, Solarwinds, internal monitoring tools. 
+- Investigate and resolving faults to ensure systems and applications uptime and availability.
+- Led training sessions for team members in the New York office, improving overall team technical capabilities and performance

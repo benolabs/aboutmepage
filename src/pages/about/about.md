@@ -1,10 +1,9 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
+name: "Ben Lee"
+designation: "Application Support Engineer"
+location: Sydney, Australia
 website: "http://tafutza.hn/kos"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+Dynamic IT professional with experience in supporting and administering Windows and Unix Server environments. Proficient in troubleshooting, monitoring, and improving application and system reliability. Eager to develop expertise in enterprise cloud technologies and infrastructure management.
