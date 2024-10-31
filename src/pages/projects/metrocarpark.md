@@ -19,4 +19,4 @@ The app aims to save time and reduce stress for commuters by knowing exactly whe
 - **API:** The Car Park API from Transport Open Data (Transport for NSW), provides real time and historical occupancy of selected car parks. This API provides the occupancy for Transport Park&Ride car parks.
 - **Cloud Deployment:** Built and deployed to the Digital Ocean Cloud platform. 
 
-![Metro Carpark app](/coffeebrewrecipe2.png)
+![Metro Carpark app](/metrocarpark.png)
