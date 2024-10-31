@@ -9,10 +9,8 @@ The Metro Carpark app is a web app enables commuters and travellers to check rea
 The app aims to save time and reduce stress for commuters by knowing exactly where to park before they set out on their journey. 
 
 ### **Key Features:**
-**Real-Time Parking Availability:**
-- Instantly view the number of available parking spots at specific Metro stations. See which parking areas are occupied and which are free, allowing for    efficient planning before you arrive.
-**Historical parking data:**
-- Historic carpark data to view visual trends in parking availability and insights into the peak and off peak times during the day.
+- **Real-Time Parking Availability:** Instantly view the number of available parking spots at specific Metro stations. See which parking areas are occupied and which are free, allowing for efficient planning before you arrive.
+- **Historical parking data:** Historic carpark data to view visual trends in parking availability and insights into the peak and off peak times during the day.
 
 ### **Technology stack:**
 - **Javascript:** The backend of the application is built using a stable and reliable webframework Express.js, leveraging Javascript libraries including chartjs for visual graph data and Pug templating engine.
