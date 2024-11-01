@@ -10,7 +10,7 @@ Coffee Brew Recipe is a web app developed for coffee enthusiasts who want to per
 - Brew Recording: Easily log each brew with details such as brew method, coffee type, grind size and any notes on flavor or adjustments made.
 - Coffee to Water Ratio Calculator: Automatically calculate the ideal coffee-to-water ratio for various brewing methods, ensuring you achieve the perfect cup every time.
 
-### **Technologies used:**
+### **Technology Stack:**
 - **Python:** The backend of the application is built using a modern webframework FastAPI, leveraging python libraries including pydantic for data validation and jinja2 templating engine.
 - **Cloud Deployment:** Built and deployed to the Digital Ocean Cloud platform 
 
