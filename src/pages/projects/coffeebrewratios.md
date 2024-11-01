@@ -4,7 +4,7 @@ url: https://coffeebrew.benolabs.com
 tags: ["python", "FastAPI", "Cloud deployment", "javascript", "CSS"]
 ---
 
-Coffee Brew Recipe is a web app designed for coffee enthusiasts who want to perfect their brewing techniques. Whether you're a casual drinker or a passionate barista, this app provides a user-friendly platform to record your coffee brews and improve your coffee-making process.
+Coffee Brew Recipe is a web app developed for coffee enthusiasts who want to perfect their brewing techniques. Whether you're a casual drinker or a passionate barista, this app provides a platform to record your coffee brews and improve consistency in brewing that perfect cup of coffee.
 
 ### **Key Features:**
 - Brew Recording: Easily log each brew with details such as brew method, coffee type, grind size and any notes on flavor or adjustments made.
