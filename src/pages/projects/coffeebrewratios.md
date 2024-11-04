@@ -13,6 +13,6 @@ Coffee Brew Recipe is a web app developed for coffee enthusiasts who want to per
 ### **Technology Stack:**
 - **Python:** The backend of the application is built using a modern webframework FastAPI, leveraging python libraries including pydantic for data validation and jinja2 templating engine.
 - **Cloud Deployment:** Built and deployed to the Digital Ocean Cloud platform 
-- **DNS Security** Built using Cloudflare DNS, traffic is proxied through Cloudflare, Cloudflare can automatically stop DDos attacks from reaching the application and origin server
+- **DNS Security** Built using Cloudflare DNS, traffic is proxied through Cloudflare, Cloudflare can automatically stop DDoS attacks from reaching the application and origin server
 
 ![Coffee Brew Recipe](/coffeebrewrecipe2.png)
