@@ -16,6 +16,6 @@ The app aims to save time and reduce stress for commuters by knowing exactly whe
 - **Javascript:** The backend of the application is built using a reliable webframework Express.js, leveraging Javascript libraries including Chart.js for visual graph data and Pug templating engine.
 - **REST API:** The Car Park API from Transport Open Data (Transport for NSW), provides real time and historical occupancy of selected Park&Ride car parks.
 - **Cloud Deployment:** Built and deployed to the Digital Ocean Cloud platform
-- **DNS Security** Built using Cloudflare DNS, traffic is proxied through Cloudflare, Cloudflare can automatically stop DDoS attacks from reaching the application and origin server
+- **DNS Security** Built using Cloudflare DNS, traffic is proxied through Cloudflare, Cloudflare can automatically stop DDoS attacks from reaching the origin server
 
 ![Metro Carpark app](/metrocarpark.png)
